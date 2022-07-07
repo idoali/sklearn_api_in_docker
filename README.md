@@ -22,4 +22,4 @@ docker run -t -i sklearn-api
 
 After that we can go to [http://127.0.0.1/docs](http://127.0.0.1/docs) to interact with the API.
 
-To see a more complete explaination, You may go check this [http://127.0.0.1/docs](blog)
+To see a more complete explaination, You may go check this [blog](https://idoali.medium.com/containerize-machine-learning-api-using-fastapi-and-docker-c8f691251b93)
